@@ -3,7 +3,7 @@ http://blog.csdn.net/tiantiandjava/article/details/42269173
 
 
 
-#一、Intellij 功能
+# 一、Intellij 功能
 
 1、写完代码后，编译器会自动的进行编译，如果有错误，编译器会提示。
 

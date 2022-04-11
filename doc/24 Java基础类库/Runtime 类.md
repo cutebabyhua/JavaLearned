@@ -8,7 +8,7 @@
 public static Runtime getRuntime()
 ```
 
-#一、Runtime 类常用方法
+# 一、Runtime 类常用方法
 
 ​	Runtime 类是直接与本地运行有关的所有相关属性的集合，所以在 Runtime 类里定义有如下的方法：
 
